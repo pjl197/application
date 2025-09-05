@@ -1,2 +1,4 @@
-package com.example.controller;public class DemoController {
+package com.example.controller;
+
+public class DemoController {
 }

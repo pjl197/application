@@ -1,2 +1,12 @@
 server:
   port: 8080
+
+my:
+  mood:
+    today: "周五"
+    content: "开心"
+    author: "小程序员"
+
+  feature:
+    helloSwitch: false
+    closeMsg: "该接口正在维护，10分钟之后再来吧"
